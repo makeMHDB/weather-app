@@ -16,7 +16,7 @@ CREATE TABLE `temp` (
   `temp` int NOT NULL,
   `obstime` datetime NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=3621 DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
 ```
 Insert [climacell.co](https://www.climacell.co/) API key at MainController.java
 
