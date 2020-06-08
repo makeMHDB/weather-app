@@ -18,6 +18,8 @@ CREATE TABLE `temp` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=3621 DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
 ```
+Insert [climacell.co](https://www.climacell.co/) API key at MainController.java
+
 Compile and run application
 
 http://localhost:5000
@@ -28,3 +30,4 @@ http://localhost:5000
 * [Thymeleaf](https://www.thymeleaf.org/) - Template engine
 * [Bootstrap](https://getbootstrap.com/) - CSS framework
 * [canvasJS](https://canvasjs.com/) - Charting library
+* [climacell](https://www.climacell.co/) - Weather data API
