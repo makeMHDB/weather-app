@@ -2,8 +2,6 @@
 
 Simple weather application which shows temperature history in Vilnius made for learning purposes
 
-Application is published [here](http://weatherappibm.us-east-2.elasticbeanstalk.com/)
-
 ## Running application
 Create database "weather_app":
 ```
